@@ -1,4 +1,4 @@
-package com.example.notification_app_be;
+package com.example.vehicle_maintence_scheduler;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
